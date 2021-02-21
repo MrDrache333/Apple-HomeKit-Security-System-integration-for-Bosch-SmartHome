@@ -2,11 +2,13 @@
 This repository describes how to integrate the Bosch SmartHome Security System into Apple HomeKit
 
 # How to integrate the Bosch SmartHome Security System into HomeKit using the ioBroker Plugins Node-Red and YaHKa
+![homekit](https://github.com/MrDrache333/Apple-HomeKit-Security-System-integration-for-Bosch-SmartHome/blob/main/homekit.jpg?raw=true)
+![bshb](https://github.com/holomekc/ioBroker.bshb/raw/master/admin/bshb-logo.jpg)
 
 ## Requirements
-- Installed Node-RED Adapter
-- Installed YaHKa-Adapter
-- Installed and configured bshb-Adapter
+- Installed [Node-RED Adapter](https://github.com/ioBroker/ioBroker.node-red)
+- Installed [YaHKa-Adapter](https://github.com/jensweigele/ioBroker.yahka)
+- Installed and configured [bshb-Adapter](https://github.com/holomekc/ioBroker.bshb)
 
 ## Create objects in ioBroker
 Please create the following datapoints in ioBroker
@@ -52,3 +54,5 @@ Right now the following actions in HomeKit perform the following actions in the 
 
 If the System was disarmed by the Bosch SmartHome System the HomeKit App will show the State AUS/OFF. Therefore automations created by the Home-App will work (TRIGGERED, ACTIVATED and DEACTIVATED). 
 ![Bildschirmfoto 2021-01-29 um 16 50 03](https://user-images.githubusercontent.com/22854641/106296506-0d01e380-6252-11eb-8aa6-94920d0f947b.jpg)
+
+If you also want to play sounds on your HomePods whenever the Security System State changes, take a look at [THIS](https://github.com/MrDrache333/Apple-HomeKit-Security-System-integration-for-Bosch-SmartHome)
