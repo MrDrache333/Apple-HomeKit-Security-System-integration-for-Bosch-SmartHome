@@ -54,4 +54,4 @@ Right now the following actions in HomeKit perform the following actions in the 
 If the System was disarmed by the Bosch SmartHome System the HomeKit App will show the State AUS/OFF. Therefore automations created by the Home-App will work (TRIGGERED, ACTIVATED and DEACTIVATED). 
 ![Bildschirmfoto 2021-01-29 um 16 50 03](https://user-images.githubusercontent.com/22854641/106296506-0d01e380-6252-11eb-8aa6-94920d0f947b.jpg)
 
-If you also want to play sounds on your HomePods whenever the Security System State changes, take a look at [THIS](https://github.com/MrDrache333/Apple-HomeKit-Security-System-integration-for-Bosch-SmartHome)
+If you also want to play sounds on your HomePods whenever the Security System State changes, take a look at [THIS](https://github.com/MrDrache333/Apple-HomeKit-Alarmanlage-Sounds)
