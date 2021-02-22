@@ -41,7 +41,7 @@ For this, klick in the YaHKa-Adapter configuration on the ioBroker-HUB (as shown
 The created Security System should then be automatically added to HomeKit.
 
 In the Home-App you should get a new device with an Alarm-Light-Icon like this.
-![Bildschirmfoto 2021-01-29 um 16 42 28](https://user-images.githubusercontent.com/22854641/106295636-fc9d3900-6250-11eb-826b-037505caace5.jpg)
+<img src="https://user-images.githubusercontent.com/22854641/106295636-fc9d3900-6250-11eb-826b-037505caace5.jpg" width=500px>
 
 You can now control your Bosch SmartHome Security System via HomeKit.
 Right now the following actions in HomeKit perform the following actions in the Bosch Security System
@@ -52,6 +52,6 @@ Right now the following actions in HomeKit perform the following actions in the 
 * AUS/OFF <-> SYSTEM_DISARMED
 
 If the System was disarmed by the Bosch SmartHome System the HomeKit App will show the State AUS/OFF. Therefore automations created by the Home-App will work (TRIGGERED, ACTIVATED and DEACTIVATED). 
-![Bildschirmfoto 2021-01-29 um 16 50 03](https://user-images.githubusercontent.com/22854641/106296506-0d01e380-6252-11eb-8aa6-94920d0f947b.jpg)
+<img src="https://user-images.githubusercontent.com/22854641/106296506-0d01e380-6252-11eb-8aa6-94920d0f947b.jpg" width=500px>
 
 If you also want to play sounds on your HomePods whenever the Security System State changes, take a look at [THIS](https://github.com/MrDrache333/Apple-HomeKit-Alarmanlage-Sounds)
