@@ -4,6 +4,7 @@ This repository describes how to integrate the Bosch SmartHome Security System i
   <img src="https://github.com/MrDrache333/Apple-HomeKit-Security-System-integration-for-Bosch-SmartHome/blob/main/homekit.jpg?raw=true" height=200px>
   <img src="https://github.com/holomekc/ioBroker.bshb/raw/master/admin/bshb-logo.jpg" height=200px>
 </div>
+<a href="https://www.buymeacoffee.com/MrDrache333" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height=40px alt="Buy Me A Coffee"></a>
 
 ## Requirements
 - Installed [Node-RED Adapter](https://github.com/ioBroker/ioBroker.node-red)
@@ -56,3 +57,5 @@ If the System was disarmed by the Bosch SmartHome System the HomeKit App will sh
 <img src="https://user-images.githubusercontent.com/22854641/106296506-0d01e380-6252-11eb-8aa6-94920d0f947b.jpg" width=500px>
 
 If you also want to play sounds on your HomePods whenever the Security System State changes, take a look at [THIS](https://github.com/MrDrache333/Apple-HomeKit-Alarmanlage-Sounds)
+
+<a href="https://www.buymeacoffee.com/MrDrache333" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height=40px alt="Buy Me A Coffee"></a>
