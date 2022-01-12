@@ -1,5 +1,6 @@
 # How to integrate the Bosch SmartHome Security System into HomeKit using the ioBroker Plugins Node-Red, YaHKa and bshb
 This repository describes how to integrate the Bosch SmartHome Security System into Apple HomeKit
+<div><img src="https://url.oelrichsgarcia.de/Apple-HomeKit-Security-System-integration-for-Bosch-SmartHome/track"></div>
 <div>
   <img src="https://github.com/MrDrache333/Apple-HomeKit-Security-System-integration-for-Bosch-SmartHome/blob/main/homekit.jpg?raw=true" height=200px>
   <img src="https://github.com/holomekc/ioBroker.bshb/raw/master/admin/bshb-logo.jpg" height=200px>
